@@ -51,7 +51,7 @@ The clustering model helps identify:
 ---
 
 ## Power BI Dashboard
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Power_Bi Dashboard.png)
 
 ---
 
