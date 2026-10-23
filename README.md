@@ -3,47 +3,21 @@ A data analytics project that performs  traffic analysis, Power BI dashboard vis
 # SEO Traffic Analytics and Keyword Clustering
 
 
-# SEO Traffic Analytics and Keyword Clustering
+1. 📂 Business Problem & Objective (ಬಿಸಿನೆಸ್ ಸಮಸ್ಯೆ)
 
-## Project Overview
-This project focuses on SEO Traffic Analytics and Keyword Clustering using MySQL, Power BI, and Machine Learning techniques.  
-The project analyzes keyword performance, traffic trends, competition metrics, and search behavior to generate meaningful business insights.
+"The primary objective of this internship project was to analyze large-scale SEO traffic data (comprising search volumes and competition metrics) to optimize marketing spend. Without automated clustering, the digital marketing team struggled to identify high-value keywords manually across thousands of search queries."
 
----
+2. 💡 Key Business Insights Generated
 
-## Tools & Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- MySQL Workbench
-- Power BI
-- Google Colab
+• Cluster 1 (Golden Opportunities): Identified low-competition, high-search-volume keywords that allowed the business to capture quick organic traffic with minimal ad spend.
+• Cluster 2 (High-Value Battles): Isolated high-search-volume but hyper-competitive keywords, helping the finance team allocate realistic budgets for paid search campaigns.
+• Cluster 3 (Niche Long-Tails): Grouped semantic keywords tailored for high-conversion blog topics and content strategies.
 
----
+3. 🛠️ Technical Implementation Details
 
-## Project Workflow
-1. Data Cleaning and Preprocessing  
-2. MySQL Database Design and Relationships  
-3. EER Diagram Creation  
-4. Power BI Dashboard Development  
-5. KMeans Clustering for Keyword Analysis  
+• Database Optimization: Developed relational lookup tables in MySQL and mapped relationships using an EER Diagram to eliminate data redundancy. Connected this directly to Power BI via native database connectors.
+• Machine Learning Pipeline: Implemented feature scaling (StandardScaler) on Search Volume and Competition before applying the KMeans algorithm. Used the Elbow Method to determine the optimal number of clusters (K).
 
----
-
-## Machine Learning
-KMeans Clustering was applied using:
-- Search Volume
-- Competition
-
-The clustering model helps identify:
-- High search volume keywords
-- High competition keywords
-- Low competition opportunities
-- SEO keyword groups
-
----
 
 ## Google Colab Notebook
 [Open Google Colab Notebook](https://colab.research.google.com/drive/19yeDlsC1Pu1_SdKAL6ODVMCFVawzWTqM?usp=sharing)
