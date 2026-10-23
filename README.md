@@ -23,6 +23,8 @@ A data analytics project that performs  traffic analysis, Power BI dashboard vis
 [Open Google Colab Notebook](https://colab.research.google.com/drive/19yeDlsC1Pu1_SdKAL6ODVMCFVawzWTqM?usp=sharing)
 
 <img width="934" height="452" alt="image" src="https://github.com/user-attachments/assets/f46a295d-6fc4-4a45-8f33-c5b824269bda" />
+<img width="913" height="475" alt="image" src="https://github.com/user-attachments/assets/e132f253-ee21-4284-988b-bc957fc3430e" />
+
 
 
 ---
