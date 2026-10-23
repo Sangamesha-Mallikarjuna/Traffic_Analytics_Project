@@ -37,12 +37,8 @@ A data analytics project that performs  traffic analysis, Power BI dashboard vis
 ---
 
 ## MySQL EER Diagram
-![EER Diagram](eer_diagram.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd434c10-a6ad-4c3b-92ec-e0acb005cdb8" />
 
----
-
-## KMeans Clustering Output
-![KMeans Clustering](clustering_output.png)
 
 ---
 
