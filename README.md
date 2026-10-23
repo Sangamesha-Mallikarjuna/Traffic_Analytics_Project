@@ -32,6 +32,8 @@ A data analytics project that performs  traffic analysis, Power BI dashboard vis
 ## Power BI Dashboard
 ![Power BI Dashboard](power_bi_dashboard.png)
 
+Screenshot 2026-05-24 163640.png
+
 ---
 
 ## MySQL EER Diagram
