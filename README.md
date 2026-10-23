@@ -31,8 +31,8 @@ A data analytics project that performs  traffic analysis, Power BI dashboard vis
 
 ## Power BI Dashboard
 ![Power BI Dashboard](power_bi_dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3699f833-a2f0-40b3-b223-8417e12c8734" />
 
-Screenshot 2026-05-24 163640.png
 
 ---
 
